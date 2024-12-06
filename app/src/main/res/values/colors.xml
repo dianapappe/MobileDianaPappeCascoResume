@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Blue Tones -->
+    <color name="blue_200">#90CAF9</color> <!-- Light Blue -->
+    <color name="blue_500">#2196F3</color> <!-- Primary Blue -->
+    <color name="blue_700">#1976D2</color> <!-- Dark Blue -->
+
+    <color name="blue_accent_200">#80D8FF</color>
+    <color name="blue_accent_700">#0091EA</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cyan_500">#00BCD4</color>
+    <color name="blue_gray_500">#607D8B</color>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+    <color name="deep_orange_500">#FF7043</color>
+    <color name="deep_orange_700">#D84315</color>
+</resources>
+
+<!--
+
+
+    &lt;!&ndash; Complementary Accent &ndash;&gt;
+<color name="blue_accent_200">#80D8FF</color> &lt;!&ndash; Light Accent &ndash;&gt;
+<color name="blue_accent_700">#0091EA</color> &lt;!&ndash; Dark Accent &ndash;&gt;
+
+    &lt;!&ndash; Neutral Colors &ndash;&gt;
+<color name="black">#FF000000</color>
+<color name="white">#FFFFFFFF</color>
+
+    &lt;!&ndash; Optional Contrast/Complementary Colors &ndash;&gt;
+<color name="cyan_500">#00BCD4</color> &lt;!&ndash; Cyan for subtle contrast &ndash;&gt;
+<color name="blue_gray_500">#607D8B</color> &lt;!&ndash; Blue-gray for a modern touch &ndash;&gt;
+-->
+

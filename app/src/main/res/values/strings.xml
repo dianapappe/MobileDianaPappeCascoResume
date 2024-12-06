@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DianaPappeCasco Resume</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="infoTitle"><b>Diana Pappe Casco\nSoftware Developer\ndianapappecasco@my.unt.edu</b></string>
+
+    <string name="infoContDesc">Information icon</string>
+    <string name="infoDesc">15 years of experience in multiple stages of the web and software development life cycle.\n\nProven developer on multiple enterprise development projects.\n\nBilingual in English and Spanish.</string>
+
+    <string name="expCompany1"><b>Software Developer\nAdvanced-Online\nJun/2016 - Sept/2021\nCoppell, TX. USA</b></string>
+    <string name="expContDesc1">Experience icon</string>
+    <string name="expDesc1">Research and develop software solutions for issues in applications.\n\nCreated store procedures in SQL Server.\n\nDeveloped a Pricing update routine. The process allows internal users to update our product prices by batches.</string>
+
+    <string name="expCompany2"><b>Software Developer\nOro Verde Management\nAug/2003 - Jul/2012\nEcuador, South America</b></string>
+    <string name="expContDesc2">Experience icon</string>
+    <string name="expDesc2">Developed, maintained, and  enhanced ERP Software modules.\n\nIncreased data access for software applications by 95% by developing procedures, creating menus  and automating queries to eliminate manual processes.\n\nImproved software developing process by creating a structural database model used by the application and  implemented the database integrity.</string>
+
+
+    <string name="eduContDesc1">Education icon 1</string>
+    <string name="eduDesc1"><b>Information Technology</b>\nWorking towards Bachelor of Arts in Information Technology\nAugust 2020 - Present</string>
+
+    <string name="eduContDesc2">Education icon 2</string>
+    <string name="eduDesc2"><b>Computer Information Technology\n(Programming Awards)\n</b>Visual Studio Enterprise Developer Certificate\nJanuary 2013 - December 2015</string>
+
+
+    <string name="eduContDesc3">Education icon 3</string>
+    <string name="eduDesc3"><b>Computer Science</b>\nBachelor of Science in Computer Science\nJanuary 1994 - December 1998</string>
+
+    <string name="skillDesc1"><b>Programming Languages and Tools</b></string>
+    <string name="skillContDesc1">skill icon 1</string>
+    <string name="skillDesc2"><b>Workflow</b>\n\nProblem solving\nResponsive and functional design\nCross Browser Testing and Debugging\nCross Functional Teams\nAgile Development and Scrum</string>
+</resources>
